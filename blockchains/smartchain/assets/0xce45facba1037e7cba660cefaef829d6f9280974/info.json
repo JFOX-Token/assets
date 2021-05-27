@@ -1,0 +1,11 @@
+{
+    "name": "JFOX Token",
+    "website": "https://www.jfoxtoken.jfoxaircraft.com",
+    "description": "JFOX is a utility token for aerospace",
+    "explorer": "https://bscscan.com/token/0xce45facba1037e7cba660cefaef829d6f9280974",
+    "symbol": "JFOX",
+    "type": "BEP20",
+    "decimals": 18,
+    "status": "active",
+	"id": "0xce45facba1037e7cba660cefaef829d6f9280974"
+}
